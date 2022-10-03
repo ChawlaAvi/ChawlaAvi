@@ -6,7 +6,7 @@
 ### Hi there. I'm Avi 👋
 
 
-- :zap: I am a Data Scientists and a Creator. I love Mathematics, programming, and books (not an avid reader though).
+- :zap: I am a Data Scientist and a Creator. I love Mathematics, programming, and books (not an avid reader though).
 - :earth_africa: I share my knowledge as a Data Scientist in [my blogs](https://medium.com/@avi-chawla) and data science tips on [LinkedIn](https://www.linkedin.com/in/avi-chawla/). I am also a Data Science Educator at Simplilearn.
 
 - 📫 Learn more about me on:  
