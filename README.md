@@ -7,7 +7,7 @@
 
 
 - :zap: I am a Data Scientist and a Creator. I love Mathematics, programming, and books (not an avid reader though).
-- :earth_africa: I share my knowledge as a Data Scientist in [my blogs](https://medium.com/@avi_chawla) and data science tips on [LinkedIn](https://www.linkedin.com/in/avi-chawla/).
+- :earth_africa: I share my knowledge as a Data Scientist in [my blogs](https://medium.com/@avi_chawla) and data science tips on [LinkedIn](https://www.linkedin.com/in/avi-chawla/) and [Substack](https://avichawla.substack.com).
 
 - 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@avi_chawla)
